@@ -4,3 +4,6 @@
 ``` javascript
 let hello = "hello";
 ```
+- [x] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
